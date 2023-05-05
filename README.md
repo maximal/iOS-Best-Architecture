@@ -16,5 +16,5 @@ Simple design pattern with the best iOS dev experience.
 ### Visual scheme
 
 <p align="center">
-	<img src="visualScheme.jpg">
+	<img src="scheme.svg">
 </p>
